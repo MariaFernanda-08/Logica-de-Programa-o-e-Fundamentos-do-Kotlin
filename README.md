@@ -109,7 +109,7 @@ fun main() {
 ```
 ---
 ## Exercício 8 - Média Final 🧾
-```
+```Kotlin
 fun main() {
     println("Coloque aqui sua primeira nota")
     var nota1 = readLine()!!.toDouble()
@@ -126,7 +126,7 @@ fun main() {
 ```
 ---
 ## Exercício 9 - Duração do Evento 🎉
-```
+```Kotlin
 fun main() {
     println("Digite o tempo do evento em segundos:")
     val totalSegundos = readLine()!!.toInt()
@@ -142,7 +142,7 @@ fun main() {
 ```
 ---
 ## Exercício 10 - Distância 🏎️
-```
+```Kotlin
 import kotlin.math.sqrt
 import kotlin.math.pow
 
@@ -165,7 +165,7 @@ fun main() {
 ```
 ---
 ## Exercício 11 - Valor Inteiro 🔢
-```
+```Kotlin
 import kotlin.math.pow
 
 fun main() {
@@ -188,7 +188,7 @@ fun main() {
 ```
 ---
 ## Exercício 12 - Custo ao Consumidor 🏭
-```
+```Kotlin
 fun main() {
     print("Digite o custo de fábrica do carro: ")
     val custoFabrica = readLine()!!.toDouble()
@@ -202,7 +202,7 @@ fun main() {
 ```
 ---
 ## Exercício 13 - Equações Lineares ➗
-```
+```Kotlin
 fun main() {
     print("Digite o valor de a: ")
     val a = readLine()!!.toDouble()
@@ -232,7 +232,7 @@ fun main() {
 ```
 ---
 ## Exercício 14 - Salário Atual 💰
-```
+```Kotlin
 fun main() {
     println("informe seu salario atual")
     var salarioAtual = readLine()!!.toDouble()
@@ -244,7 +244,7 @@ fun main() {
 ```
 ---
 ## Exercício 15 - Novo salário 💵
-```
+```Kotlin
 fun main() {
     println("Informe o salário atual do funcionário:")
     val salarioAtual = readLine()!!.toDouble()
@@ -259,7 +259,7 @@ fun main() {
 ```
 ---
 ## Exercício 16 - Idade 📅
-```
+```Kotlin
 fun main() {
     println("Digite seu ano de nascimento:")
     val anoNascimento = readLine()!!.toInt()
@@ -280,8 +280,7 @@ fun main() {
 ```
 ---
 ## Exercício 17 - Ração 🐈‍⬛
-```
-   
+```Kotlin 
 fun main() {
     println("Digite o peso do saco de ração (em kg):")
     val pesoSacoKg = readLine()!!.toDouble()
@@ -303,7 +302,7 @@ fun main() {
 ```
 ---
 ## Exercício 18 - Troca 🔂
-```
+```Kotlin 
 fun main() {
     println("Digite o valor da variavel A")
     var variavelA = readLine()!!.toDouble()
@@ -322,7 +321,7 @@ fun main() {
 ```
 ---
 ## Exercício 19 - Volume 📐
-```
+```Kotlin 
 fun main() {
     println("Digite o valor do comprimento")
     var comprimento = readLine()!!.toDouble()
@@ -340,7 +339,7 @@ fun main() {
 ```
 ---
 ## Exercício 20 - Quadrado da Diferença ➖
-```
+```Kotlin 
 fun main() {
     print("Digite o valor de A: ")
     val a = readLine()!!.toInt()
@@ -355,7 +354,7 @@ fun main() {
 ```
 ---
 ## Exercício 21 - Conversão 💵
-```
+```Kotlin 
 fun main() {
     var valor_dolar = 50
     val cotaçao_dolar = 5.60
@@ -366,7 +365,7 @@ fun main() {
 ```
 ---
 ## Exercício 22 - Soma do Quadrado 🟥
-```
+```Kotlin 
 fun main() {
     println("Insira o primeiro valor inteiro")
     var valorA = readLine()!!.toDouble()
@@ -385,7 +384,7 @@ fun main() {
 ```
 ---
 ## Exercício 23 - Quatro Operações 🔢
-```
+```Kotlin 
 fun main() {
     println("Insira o primeiro valor real")
     var valorReal1 = readLine()!!.toDouble()
@@ -406,7 +405,7 @@ fun main() {
 ```
 ---
 ## Exercício 24 - Raio da Esfera 🔴
-```
+```Kotlin 
 fun main() {
     println("Digite o valor do raio da esfera:")
     val raio = readLine()!!.toDouble()
@@ -419,7 +418,7 @@ fun main() {
 ```
 ---
 ## Exercício 25 - Antecessor e Sucessor ⬅️➡️
-```
+```Kotlin 
 fun main() {
     
     println("Insira um valor numerico inteiro")
